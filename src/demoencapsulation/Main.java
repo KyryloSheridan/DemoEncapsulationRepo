@@ -5,6 +5,14 @@
  */
 package demoencapsulation;
 
+/**
+ * 
+ * My own comment
+ * 
+ * - Kyrylo Anisimov
+ * 
+ */
+
 import content.Employee;
 import content.Worker;
 /**
